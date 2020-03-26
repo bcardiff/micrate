@@ -12,4 +12,5 @@ maintainers:
 dependencies:
   db:
     github: crystal-lang/crystal-db
-    version: ~> 0.8.0
+    branch: crystal/0.34.0
+    # version: ~> 0.8.0
